@@ -23,7 +23,7 @@ def main():
     ''' Main python script to execute loading of data, propressing, model, cross validation, evaluating'''
     # Kaggle path
     kaggle_dataset_path = 'ealaxi/paysim1'
-    download_path = './data'
+    download_path = '../data'
 
     # Download the Kaggle dataset
     download_kaggle_dataset(kaggle_dataset_path, download_path)
