@@ -1,1 +1,2 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
+data/PS_20174392719_1491204439457_log.csv filter=lfs diff=lfs merge=lfs -text
