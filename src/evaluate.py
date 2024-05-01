@@ -7,6 +7,7 @@ def evaluate_model(model, test_set):
       """Evaluate the model's performance."""
 
       for algo_name, model_instance in model.items():
+
             y_pred = model_instance.predict(X_test)
             accuracy = accuracy_score(y_test, y_pred)
             precision = precision_score(y_test, y_pred, average='weighted')  # Specify averaging strategy
