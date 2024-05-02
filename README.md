@@ -96,8 +96,11 @@ Data partitioning was done using a customized stratified sampling algorithm. Its
 <br>
 ![image](https://github.com/KeithChenYong/Fraud-Detection/assets/133010489/20f2d738-63ec-4675-8a1b-73b6931bfdf0)
 
-Interpreting the feature importances/coefficient for XGBoost, Logistic Regression, and Random Forest showed that both engineered columns 'emptied' and 'wealthy_customer' significantly contributed to the algorithms. 
-![image](https://github.com/KeithChenYong/Fraud-Detection/assets/133010489/81757781-be6b-403b-8ea6-92f57aaf41f0)
+Interpreting the feature importances/coefficient for XGBoost, Logistic Regression, and Random Forest showed that both engineered columns 'emptied' and 'wealthy_customer' significantly contributed to the algorithms. <br>
+![image](https://github.com/KeithChenYong/Fraud-Detection/assets/133010489/81757781-be6b-403b-8ea6-92f57aaf41f0)<br>
+![image](https://github.com/KeithChenYong/Fraud-Detection/assets/133010489/9558ec77-e307-4789-b156-8194a27c8fc2)<br>
+![image](https://github.com/KeithChenYong/Fraud-Detection/assets/133010489/a2b27343-d10d-497c-967b-d020cbdb8b02)<br>
+
 <br>Logistic Regression and XGBoost performed the best compared to Random Forest.
 ![image](https://github.com/KeithChenYong/Fraud-Detection/assets/133010489/33d90f99-c3b8-4ffe-8b8e-516ed75aeb61)
 
