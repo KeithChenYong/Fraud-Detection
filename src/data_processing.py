@@ -38,6 +38,7 @@ def feature_engineering(df):
     return df
 
 def encoder(df):
+    print(df)
     encoder = OneHotEncoder(sparse_output=False)  # Return a dense array
     encoded_data = encoder.fit_transform(df[['type']])
     encoded_df = pd.DataFrame(encoded_data, columns=encoder.get_feature_names_out(['type']))
