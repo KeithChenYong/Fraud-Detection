@@ -34,7 +34,7 @@ Users have the flexibility to modify the following
 | XGBoost | - Handling Imbalanced Data<br>-  Boosting Technique |
 
 ## Contributing
-Contributions are welcome! Please submit bug reports or feature requests via the [GitHub issue tracker](https://github.com/KeithChenYong/Fraud-Detection/issues).
+Contributions are welcome! Please submit bug reports or feature requests via the [GitHub issue tracker](https://github.com/KeithChenYong/Fraud-Detection/issues). This workflow uses a significant portion of bandwidth, and due to the limited amount available under the author's account, the workflow may encounter errors. Git LFS data resets monthly, allowing the workflow to run successfully again.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details. 
