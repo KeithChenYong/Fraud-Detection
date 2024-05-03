@@ -15,7 +15,10 @@ Upon pushing or manually triggering the workflow in GitHub, the necessary instal
 ![image](https://github.com/KeithChenYong/Fraud-Detection/assets/133010489/1cde79bc-0552-4c53-b230-6c9786eaa16d)
 
 
-User will be able to see the k-fold cross-validation results, offering a holistic view of the dataset's behavior under different models and various classification Performance metrics for each algorithm.<br>
+User will be able to see the k-fold cross-validation results, offering a holistic view of the dataset's behavior under different models and various classification Performance metrics for each algorithm. In the image below, both the Logistic Regression and XGBoost classifier models achieved a score of 1.000 in all three performance metrics. The Random Forest classifier model lagged behind in all three metrics, but it had the lowest false negative count, with only 4 out of 1,643 actual fraudulent cases. <br>
+
+![image](https://github.com/KeithChenYong/Fraud-Detection/assets/133010489/a6cd9c91-ef44-4f59-a759-f95156f95508) <br>
+
 
 
 ## Configuration
