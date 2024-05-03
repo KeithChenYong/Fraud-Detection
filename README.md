@@ -97,7 +97,7 @@ Data partitioning was done using a customized stratified sampling algorithm. Its
   - select the remaining 50% of samples from set A.
   - add enough samples from set B to restore the original ratio from the overall data set.
 <br>
-![image](https://github.com/KeithChenYong/Fraud-Detection/assets/133010489/20f2d738-63ec-4675-8a1b-73b6931bfdf0)
+![image](https://github.com/KeithChenYong/Fraud-Detection/assets/133010489/8e1d5b6b-bca4-4ce8-b22a-0e2abc13649f)<br>
 
 Interpreting the feature importances/coefficient for XGBoost, Logistic Regression, and Random Forest showed that both engineered columns 'emptied' and 'wealthy_customer' significantly contributed to the algorithms. <br>
 ![image](https://github.com/KeithChenYong/Fraud-Detection/assets/133010489/81757781-be6b-403b-8ea6-92f57aaf41f0)<br>
